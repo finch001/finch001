@@ -1,7 +1,7 @@
 #### Hello World👏
 ## 我是 finch(郑彦)
 
-目前是一名前端工程师，居住地武汉。15 年入行，目前工作于前端，向往于 Web3。
+目前是一名前端工程师，居住地武汉。15 年入行，目前工作于前端。
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=finch001)](https://github.com/anuraghazra/github-readme-stats)
 
